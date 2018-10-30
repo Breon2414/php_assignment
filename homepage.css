@@ -1,0 +1,14 @@
+body {
+		background-image: url(abstract-asymmetry-botanical-1048033.jpg)
+}
+
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: auto;
+}
+
+.text {
+color: black;
+}
